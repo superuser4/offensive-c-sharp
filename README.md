@@ -1,2 +1,2 @@
-# offensive-c-
-Some offsec tools for Windows written in C# 
+# offensive-windows-
+Some offsec tools for Windows written 
